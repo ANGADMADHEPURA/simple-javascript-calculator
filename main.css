@@ -3,8 +3,9 @@ body {
     margin: 0;
     display: flex;
     justify-content: center;
-    background-color: #3832a8;
+    background-color: rgb(56, 50, 168)
     font-family: sans-serif;
+
 }
 
 input {
