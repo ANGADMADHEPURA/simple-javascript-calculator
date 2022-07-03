@@ -11,7 +11,7 @@ for (item of buttons) {
             screenValue += buttonText;
             screen.value = screenValue;
         }
-        else if (buttonText == 'C') {
+        else if (buttonText == 'AC') {
             screenValue = "";
             screen.value = screenValue;
         }
@@ -25,8 +25,6 @@ for (item of buttons) {
 
     })
 }
-
-
   window.onerror = function(){
       alert("Invaild Keyword");
   }
